@@ -3,4 +3,6 @@ For my code i added a function called generatePassword which has questions about
 Inside the function i added if statements to confirm the values.
 i created another funtion called randomize which had a for loop that was able to randomize the characters.
 ![plot](./picture/ss.png)
+credit to william marks
+
 
